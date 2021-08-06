@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=java.sql.Connection\ createConnection()
+comment0.text=\r\n\ This\ is\ a\ utility\ method\ to\ create\ a\ connection\ to\ the\ database,\ the\ defualt\ user\ table\ is\ used,\ so\ run\ this\ on\ a\ test\ database\ only\!\r\n
+comment1.params=
+comment1.target=void\ createTable()
+comment1.text=\r\n\ This\ method\ creates\ a\ new\ table\ on\ the\ database\ called\ student\ with\ columns\ ID,\ NAME\ and\ POSTCODE\r\n
+comment2.params=
+comment2.target=void\ insertRows()
+comment2.text=\r\n\ This\ method\ creates\ two\ new\ rows\ in\ the\ STUDENT\ table\r\n
+comment3.params=
+comment3.target=void\ selectRows()
+comment3.text=\r\n\ This\ method\ reads\ the\ rows\ back\ from\ the\ STUDENT\ table.\r\n
+comment4.params=
+comment4.target=void\ dropTable()
+comment4.text=\r\n\ This\ method\ drops\ the\ STUDENT\ table\ from\ the\ database\r\n
+numComments=5
